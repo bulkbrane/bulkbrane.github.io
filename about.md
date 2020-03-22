@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi!
-
-### More Information
-
-I have many interests that I like to learn and write about.
+Hi! How are you? I have many interests that I like to learn and write about. Maybe you would like to go on this adventure with me?
 
 ### Contact me
 
-[bulkbrane@gmail.com](mailto:bulkbrane@gmail.com)
+Email me at [bulkbrane@gmail.com](mailto:bulkbrane@gmail.com)
