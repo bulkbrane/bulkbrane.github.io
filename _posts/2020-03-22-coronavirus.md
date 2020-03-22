@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Coronavirus
+tags: coronavirus
 ---
 
 It seems like all anyone can talk about for the last few weeks is the Coronavirus. Maybe that's not a bad thing. Indeed, the economic impact of the U.S. quarantine will be great, and many small businesses may not live through it.
