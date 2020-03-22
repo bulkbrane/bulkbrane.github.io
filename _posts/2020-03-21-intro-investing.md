@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to Investing
 date: 2020-03-21 17:00
+tags: investing
 ---
 
 Top recommended link regarding investing: [Bogleheads investment philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy). The Bogleheads wiki (and forums) are a great resource.
