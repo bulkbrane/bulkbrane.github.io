@@ -47,5 +47,8 @@
     </div>
 
     {% include analytics.html %}
+    {% if site.tags != "" %}
+       {% include collect-tags.html %}
+    {% endif %}
   </body>
 </html>
