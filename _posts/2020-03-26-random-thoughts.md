@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Random Thoughts
+title: Misc Topics
 tags: misc
 ---
 
-I haven't had much motivation to focus on a single topic in recent days, so here are an assortment of random thoughts instead.
+An assortment of random ideas:
 
 ## Working from Home
 
