@@ -1,4 +1,3 @@
-![useful image]({{ site.url }}/assets/image.png)---
 layout: post
 title: COVID Zeitgeist
 tags: coronavirus
