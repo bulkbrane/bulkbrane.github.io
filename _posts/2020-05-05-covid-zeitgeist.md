@@ -1,3 +1,4 @@
+---
 layout: post
 title: COVID Zeitgeist
 tags: coronavirus
