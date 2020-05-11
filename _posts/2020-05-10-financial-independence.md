@@ -4,8 +4,6 @@ title: Financial Independence
 tags: investing
 ---
 
-# Financial Independence
-
 Being financially independent means that we don't need to rely on employment to maintain our lifestyle. How can we become financially independent?
 
 ## Live below your means.
