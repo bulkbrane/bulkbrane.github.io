@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review: The Talent Code
+title: "Book Review: The Talent Code"
 tags: book review
 ---
 
